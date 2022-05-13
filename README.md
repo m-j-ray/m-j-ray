@@ -12,4 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![GIVE](https://media.giphy.com/media/SbGMR2CbpUxzCxBL9j/giphy.gif)
+
 # [GitLab](https://gitlab.com/m-j-ray)
